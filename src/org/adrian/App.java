@@ -17,7 +17,7 @@ import java.io.IOException;
 public class App {
     /**
      * Método principal de la aplicación. Inicia la interfaz gráfica y carga los usuarios desde un archivo.
-     *
+     *algo
      * @param args Argumentos de línea de comandos (no utilizados).
      */
     public static void main(String[] args) {
